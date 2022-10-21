@@ -417,32 +417,27 @@ a {
 .review-carousel__item_1 {
     z-index: 2;
     opacity: 1;
-    background: url('../images/customized/customized_review1.png');
+    background: url('../images/customized/customized_review1.jpg');
     background-size: cover;
 }
 
 .review-carousel__item_2 {
-    background: url('../images/customized/customized_review2.png');
+    background: url('../images/customized/customized_review2.jpg');
     background-size: cover;
 }
 
 .review-carousel__item_3 {
-    background: url('../images/customized/customized_review3.png');
+    background: url('../images/customized/customized_review3.jpg');
     background-size: cover;
 }
 
 .review-carousel__item_4 {
-    background: url('../images/customized/customized_review4.png');
+    background: url('../images/customized/customized_review4.jpg');
     background-size: cover;
 }
 
 .review-carousel__item_5 {
-    background: url('../images/customized/customized_review5.png');
-    background-size: cover;
-}
-
-.review-carousel__item_6 {
-    background: url('../images/customized/customized_review6.png');
+    background: url('../images/customized/customized_review5.jpg');
     background-size: cover;
 }
 
@@ -890,6 +885,11 @@ a {
     .reviews__container {
         padding-bottom: 0.1em;
         height: 500px;
+    }
+
+    .carousel {
+        height: 250px;
+        width: 250px;
     }
 }
 
